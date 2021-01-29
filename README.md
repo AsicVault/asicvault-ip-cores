@@ -2,11 +2,20 @@
 
 https://asicvault.io/
 
-## ECCOP - Elliptic Curve Co-Processor
+## ECCOP
 
-## MUL256 - 256-bit multiplier with configurable 3 or 4 DSPs per 32 bits, output 512 bits
+Elliptic Curve Co-Processor
 
-## mod_secp256k1_prime - high speed 512-bit pipelined secp256k1 modulo prime accelerator
+
+## MUL256
+
+256-bit multiplier with configurable 3 or 4 DSPs per 32 bits, output 512 bits
+
+
+## mod_secp256k1_prime
+
+high speed 512-bit pipelined secp256k1 modulo prime accelerator
+
 
 ## License
 
